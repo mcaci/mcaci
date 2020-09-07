@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi there, I'm Michele Caci, a Go loving developer from :it: and soon one of the many creators of the personal GitHub's profile page.
+Feel free to check out my repositories and activities though maybe and even though I'm not very active at the moment on open source I hope I can find some time to get back into action.
+
+_More details to come soon_ :hourglass_flowing_sand:
+ 
 <!--
 **mcaci/mcaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
