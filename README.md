@@ -35,11 +35,6 @@ Senior Go developer from 🇮🇹 Italy (more precisely Sicily), living in the F
 
 _⚡ = lightning talk · 🛠️ = workshop_
 
-## 📊 GitHub Stats
-
-![mcaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcaci&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcaci&layout=compact)
-
 <!--
 **mcaci/mcaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
